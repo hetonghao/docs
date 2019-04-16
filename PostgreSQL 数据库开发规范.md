@@ -1,5 +1,4 @@
 ## PostgreSQL 数据库开发规范
-##### [TAG 27](../class/27.md)
           
 ### 作者         
 digoal          
